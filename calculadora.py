@@ -4,3 +4,5 @@ def suma(a,b):
 
 def multiplicacion(a,b):
     return a*b
+
+print("Imagen de calculadora lista")
